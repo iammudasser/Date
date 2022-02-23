@@ -16,3 +16,13 @@ operation includes
   find the days in a year
 7-difference
   find the difference between 2 dates
+  
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  Note 
+  
+ Finding the Difference between 2 dates  you should enter the after date first and then enter the  before date otherwise result should be wrong and negative.
+  
+  For Example 
+  
+  2/27/1977 - 1/2/1976 
